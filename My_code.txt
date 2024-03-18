@@ -1,0 +1,2 @@
+int jack = 5;
+cout << jack;
